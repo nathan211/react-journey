@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "name": "Phi",
+        "tel": "0909090909",
+        "permission": 1
+    },
+    {
+        "id": 1,
+        "name": "Hoang",
+        "tel": "0909090909",
+        "permission": 2
+    },
+    {
+        "id": 2,
+        "name": "Yen",
+        "tel": "0909090909",
+        "permission": 3
+    },
+    {
+        "id": 3,
+        "name": "Nathan",
+        "tel": "0909090909",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Nathan",
+        "tel": "0909090909",
+        "permission": 2
+    },
+    {
+        "id": 5,
+        "name": "Nathan",
+        "tel": "0909090909",
+        "permission": 1
+    }
+]
