@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  width: 500px;
+  margin: auto;
+}
+
+
+.Header{
+  width: 500px;
+  display: flex;
+  padding: 10px;
+}
+
+.Header > input{
+  border: none;
+  margin-left: 10px;
+  font-size: 24px;
+}
+
+.Header > input:focus{
+  outline: none;
+}
+
+
+
+
+
+
